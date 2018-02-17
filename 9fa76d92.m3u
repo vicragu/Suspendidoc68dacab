@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://imgur.com/97c0mGR" group-title="INFO",Update
+#EXTINF:-1 tvg-logo="https://imgur.com/97c0mGR.png" group-title="INFO",Update
 http://184.173.142.117:21728/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation
