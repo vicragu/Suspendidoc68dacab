@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://imgur.com/97c0mGR.png" group-title="INFO",= Feb.15.2018
+#EXTINF:-1 tvg-logo="https://imgur.com/97c0mGR.png" group-title="INFO",= Update
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES
